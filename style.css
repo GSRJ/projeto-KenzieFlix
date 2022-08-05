@@ -41,6 +41,7 @@ main{
 }
 .profile-card img{
     border-radius: 10px;
+    border: 1px solid #121214;
 }
 .profile-card img:hover{
     border: 1px solid white;
